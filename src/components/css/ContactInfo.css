@@ -1,0 +1,11 @@
+.contact-info h2, .contact-info h3 {
+    text-align: center;
+}
+
+.contact-list {
+    display: flex;
+    list-style-type: none;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px auto;
+}

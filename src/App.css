@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(214, 68%, 32%);
+    font-family: Consolas;
+}
+
+.App {
+    width: 600px;
+    color: white;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.App > h2 {
+    text-align: center;
+}
+
+hr {
+    margin: 30px auto;
+    border-color: white;
+}
+
+.box {
+    background-color: hsla(214, 69%, 10%, 0.8);
+    padding: 30px;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+@media screen and (max-width: 700px) {
+    .App {
+        width: 90%;
+    }
+}
