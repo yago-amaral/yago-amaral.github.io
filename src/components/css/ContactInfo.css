@@ -9,3 +9,16 @@
     justify-content: space-evenly;
     margin: 20px auto;
 }
+
+.social-link {
+    color: black;
+    font-size: 3em;
+}
+
+.github:hover {
+    color: white;
+}
+
+.linkedin:hover {
+    color: rgb(33, 119, 177);
+}
