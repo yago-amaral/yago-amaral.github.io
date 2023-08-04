@@ -1,0 +1,15 @@
+.resume-container {
+    background-image: linear-gradient(to right, rgb(229, 255, 0), rgb(218, 60, 30), rgb(201, 51, 206));
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.resume-link {
+    display: block;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+    padding: 15px;
+}
