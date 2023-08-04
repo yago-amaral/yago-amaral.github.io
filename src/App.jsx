@@ -1,6 +1,7 @@
 import Main from './components/Main';
 import ProjectList from './components/ProjectList';
 import Project from  "./components/Project";
+import SourceLink from './components/SourceLink';
 import './App.css';
 
 function App() {
@@ -32,6 +33,8 @@ function App() {
                     link="https://github.com/yago-amaral/crud-php"
                 />
             </ProjectList>
+
+            <SourceLink/>
         </div>
     );
 }
