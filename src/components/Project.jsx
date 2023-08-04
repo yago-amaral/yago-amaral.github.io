@@ -16,7 +16,11 @@ function Project({ name = "", description = "", technologies = [], link = ""}) {
                 </ul>
             </p>
 
-            <a href={link} target="_blank" rel="noreferrer">Link do projeto</a>
+            <div className="project-link">
+                <a href={link} target="_blank" rel="noreferrer">
+                    VER PROJETO
+                </a>
+            </div>
             <hr />
         </div>
     );

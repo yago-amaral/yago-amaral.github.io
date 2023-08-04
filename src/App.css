@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: linear-gradient(45deg, rgba(60,82,34,1) 0%, rgba(112,201,24,1) 50%, rgba(72,99,43,1) 100%);
+    background-image: linear-gradient(45deg, rgb(35, 96, 121), rgba(112,201,24,1), rgb(34, 109, 114));
     font-family: Consolas;
 }
 

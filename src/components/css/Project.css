@@ -2,10 +2,27 @@
     padding: 10px;
 }
 
-.project a {
-    color: white;
-}
-
 .project p {
     margin: 10px 0;
+}
+
+.project-link {
+    background-image: linear-gradient(to right, rgb(16, 165, 202), rgb(33, 21, 199), rgb(160, 14, 111));
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.project-link a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border: inherit;
+    width: 100%;
+}
+
+.project-link a:hover {
+    text-decoration: underline;
 }
