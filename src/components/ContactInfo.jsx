@@ -6,7 +6,7 @@ function ContactInfo() {
     return (
         <div className="contact-info box">
             <h2>Meu nome é Yago</h2>
-            <h3>Sou desenvolvedor frontend</h3>
+            <h3>Sou Desenvolvedor Backend</h3>
             
             <ul className="contact-list">
                 <li className="social">
