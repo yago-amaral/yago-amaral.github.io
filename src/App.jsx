@@ -21,10 +21,10 @@ function App() {
                     link="https://yago-amaral.github.io/todo-react"
                 />
                 <Project
-                    name="Jogo da Velha"
-                    description="Jogo da velha feito com JavaScript puro onde o usuário joga contra o computador"
-                    technologies={["JavaScript", "HTML/CSS"]}
-                    link="https://yago-amaral.github.io/jogo-da-velha"
+                    name="REST API (em produção)"
+                    description="API RESTful feita com Node.js para ser consumida por projetos futuros"
+                    technologies={["Node.js", "MongoDB", "JSON", "HTML"]}
+                    link="https://github.com/yago-amaral/myapi"
                 />
                 <Project
                     name="CRUD PHP"
