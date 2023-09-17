@@ -5,8 +5,8 @@ function AboutMe() {
         <div className="about-me box">
             <p>
                 <h2>Sobre mim</h2>
-                Estou buscando a minha primeira oportunidade na área de programação web.
-                Atualmente estudando React.
+                Estou buscando a minha primeira oportunidade de emprego na área de TI.
+                Atualmente me aprofundando em Python e análise de dados.
             </p>
             <p>
                 <h3>Minhas habilidades incluem:</h3>
